@@ -1,0 +1,53 @@
+body{
+    background-color: white;
+}
+* {
+    margin:0;
+   }
+   body{
+       background-color:white;
+   }
+   header{
+       width:100%;
+       background-color:burlywood;
+       height:50px;
+       box-shadow: 10px 10px 10px solid black;
+   }
+   .button{
+       border:none;
+       background-color:transparent;
+       width:250px;
+       height: 40px;
+       margin-left:1350px;
+    transform: translateY(-103px);
+    border-radius: 2px;
+    cursor:pointer;
+    font-size: 18px;
+    border:1px solid black;
+   }
+   .shua{
+       margin-left:700px;
+       transform: translateY(-70px);
+   }
+   .shua a{
+       color:aliceblue;
+       text-decoration: none;
+       margin:20px;
+   }
+   .marcxena img{
+       width: 50px;
+       height: 50px;
+       margin-left:20px;
+       border-radius: 10px;
+   }
+   .logoname{
+       margin-left:80px;
+       transform: translateY(-45px);
+       font-size: 30px;
+       cursor: pointer;
+       color:aliceblue;
+   }
+   .luks{
+       padding:5px;
+       font-size:20px;
+   }
